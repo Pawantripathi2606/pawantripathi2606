@@ -38,8 +38,6 @@ My focus areas include <b>Data Analytics, Machine Learning, Generative AI, RAG s
 
 ---
 
-# Signal Board
-
 ## Signal Board
 
 <table>
