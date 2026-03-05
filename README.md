@@ -56,7 +56,7 @@ My focus areas include <b>Data Analytics, Machine Learning, Generative AI, RAG s
 </table>
 
 
-# How I Work
+## How I Work
 
 - Start with a clear problem and measurable goal  
 - Build simple working prototypes first  
@@ -67,7 +67,6 @@ Discover -> Prototype -> Evaluate -> Deploy
 
 ---
 
-# Education
 
 ## Education
 
