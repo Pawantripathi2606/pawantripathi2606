@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pawankumarwork9413@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/pawan941394/">LinkedIn</a> |
-  <a href="https://github.com/pawan941394">GitHub</a> |
-  <a href="https://www.youtube.com/@Pawankumar-py4tk">YouTube</a>
+  <a href="mailto:pawantripathi802@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/pawan-tripathi-a10a84286/">LinkedIn</a> |
+  <a href="https://github.com/Pawantripathi2606">GitHub</a> |
+  
 </p>
 
 <p align="center">
