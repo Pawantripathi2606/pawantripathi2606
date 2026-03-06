@@ -42,7 +42,7 @@ My focus areas include <b>Data Analytics, Machine Learning, Generative AI, RAG s
 
 <table>
   <tr>
-    <td><strong>AI Focus</strong><br/>LLM systems, RAG, agents, voice AI</td>
+    <td><strong>AI Focus</strong><br/>LLM systems, RAG, agents</td>
     <td><strong>ML Focus</strong><br/>Model training, CV,DL,NLP</td>
   </tr>
   <tr>
