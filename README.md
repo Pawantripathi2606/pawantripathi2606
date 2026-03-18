@@ -38,22 +38,6 @@ My focus areas include <b>Data Analytics, Machine Learning, Generative AI, RAG s
 
 ---
 
-## Signal Board
-
-<table>
-  <tr>
-    <td><strong>AI Focus</strong><br/>LLM systems, RAG, agents</td>
-    <td><strong>ML Focus</strong><br/>Model training, CV,DL,NLP</td>
-  </tr>
-  <tr>
-    <td><strong>Data Analytics</strong><br/>Data analysis, visualization, business insights</td>
-    <td><strong>Core Stack</strong><br/>Python, SQL, FastAPI, PyTorch</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong><br/>Power BI, Pandas, NumPy, Streamlit</td>
-    <td><strong>Contact</strong><br/>pawantripathi802@gmail.com | +91 7415279331</td>
-  </tr>
-</table>
 
 
 ## How I Work
